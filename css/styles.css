@@ -73,13 +73,12 @@ body {
 .title-box {
   background: var(--navy-blue);
   text-align: center;
-  padding: 50px 0;
 }
 
 .main-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.7;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
@@ -89,12 +88,10 @@ body {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
 }
 
 .main-button:hover,
@@ -125,12 +122,11 @@ body {
 /* #region Our Team */
 .main-section-team {
   background-color: #f4f4fd;
-  padding: 50px 0;
 }
 
 .team-title {
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -139,8 +135,6 @@ body {
 
 .team-member-card {
   background-color: #ffffff;
-  padding: 20px;
-  border-radius: 8px;
   text-align: center;
 }
 
@@ -163,8 +157,6 @@ body {
 /* #region Our Portfolio */
 .portfolio-card {
   background-color: var(--cornflower);
-  padding: 20px;
-  border-radius: 8px;
 }
 /* #endregion */
 
@@ -172,7 +164,7 @@ body {
 .footer-box {
   background: var(--navy-blue);
   text-align: center;
-  padding: 40px 0;
+  letter-spacing: 0.02em;
 }
 
 .logo-studio-footer {
@@ -182,7 +174,6 @@ body {
   line-height: 1.17;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-
   color: var(--cloud);
 }
 
@@ -190,5 +181,6 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: var(--cloud);
+  letter-spacing: 0.02em;
 }
 /* #endregion */
