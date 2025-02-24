@@ -81,7 +81,7 @@ body {
   font-size: 56px;
   line-height: 1.7;
   letter-spacing: 0.02em;
-  color: var(--white);
+  color: #ffffff;
 }
 
 .main-button {
@@ -89,9 +89,9 @@ body {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.7;
   letter-spacing: 0.04em;
-  color: var(--white);
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   border-radius: 4px;
@@ -180,7 +180,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
 
   color: var(--cloud);
