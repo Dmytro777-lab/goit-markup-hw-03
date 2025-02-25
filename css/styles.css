@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 :root {
   /* Colors */
   --slate: #434455;
@@ -156,7 +160,7 @@ body {
 
 /* #region Our Portfolio */
 .portfolio-card {
-  background-color: var(--cornflower);
+  background-color: none;
 }
 /* #endregion */
 
