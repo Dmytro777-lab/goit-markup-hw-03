@@ -1,8 +1,6 @@
-
 * {
   box-sizing: border-box;
 }
-
 
 a {
   text-decoration: none;
@@ -152,6 +150,7 @@ body {
 }
 
 .team-member-card {
+  display: block;
   background-color: var(--white);
   text-align: center;
 }
