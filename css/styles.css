@@ -199,6 +199,7 @@ body {
 }
 
 .logo-studio-footer {
+  display: inline-block;
   margin-bottom: 16px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -207,8 +208,8 @@ body {
   letter-spacing: 0.02em;
   color: var(--cloud);
 }
+
 .footer-link {
-  display: inline-block;
   margin-bottom: 16px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
