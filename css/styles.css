@@ -174,6 +174,7 @@ body {
 
 /* #region Our Portfolio */
 .portfolio-card {
+  display: block;
   background-color: transparent;
 }
 
