@@ -30,12 +30,15 @@ body {
 
 /* #region Header */
 .container {
+  border-bottom: 1px solid #e7e9fc;
   max-width: 1158px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 15px;
+  display: flex;
 }
 
 .page-nav {
+  align-items: center;
   display: flex;
   gap: 8px;
 }
