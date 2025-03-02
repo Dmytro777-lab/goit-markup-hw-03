@@ -186,17 +186,20 @@ body {
 /* #region Our Portfolio */
 .portfolio-card {
   display: block;
-  background-color: transparent;
 }
 
 /* #endregion */
 
 /* #region Footer */
 .footer-box {
+  display: inline-block;
+  padding: 100px;
   background: var(--navy-blue);
 }
 
 .logo-studio-footer {
+  margin-bottom: 16px;
+
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
