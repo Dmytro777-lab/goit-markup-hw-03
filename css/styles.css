@@ -134,7 +134,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 
 .goals-text {
@@ -157,7 +157,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 
 .team-member-card {
@@ -171,14 +171,14 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 
 .card-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
 }
 
 /* #endregion */
@@ -186,19 +186,20 @@ body {
 /* #region Our Portfolio */
 .portfolio-card {
   display: block;
+  background-color: none;
 }
 
 /* #endregion */
 
 /* #region Footer */
 .footer-box {
+  background: #2e2f42;
   padding-top: 100px;
   padding-bottom: 100px;
 }
 
 .logo-studio-footer {
   margin-bottom: 16px;
-
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -208,6 +209,14 @@ body {
 }
 .footer-link {
   display: inline-block;
+  margin-bottom: 16px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--cloud);
 }
 
 .paragraf-box {
